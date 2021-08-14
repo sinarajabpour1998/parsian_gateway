@@ -1,0 +1,17 @@
+{
+    "name": "sinarajabpour1998/parsian_gateway",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Sina Rajabpour",
+            "email": "sina.rajabpour@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sinarajabpour1998\\ParsianGateway\\": "src/"
+        }
+    }
+}
